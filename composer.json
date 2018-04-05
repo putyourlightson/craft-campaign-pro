@@ -12,7 +12,7 @@
         "newsletter"
     ],
     "require": {
-        "craftcms/cms": "^3.0.1",
+        "craftcms/cms": "^3.0.1"
     },
     "autoload": {
         "psr-4": {

@@ -6,7 +6,9 @@
 
 # Craft Campaign Pro
 
-Campaign Pro brings segments and automated sendouts to the Campaign plugin. 
+> ** Campaign Pro unlocks the pro features of the Campaign plugin which must also be purchased and installed. Once plugin editions come to the plugin store, these will be merged into a single plugin with two editions.
+
+Campaign Pro brings segments and automated sendouts to the Campaign plugin.
 
 Learn more at [craftcampaign.com](https://craftcampaign.com).
 
