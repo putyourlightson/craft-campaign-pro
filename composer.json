@@ -1,0 +1,38 @@
+{
+    "name": "putyourlightson/craft-campaign-pro",
+    "description": "Adds pro features to the Craft Campaign plugin.",
+    "version": "1.0.0",
+    "type": "craft-plugin",
+    "homepage": "https://craftcampaign.com/",
+    "license": "proprietary",
+    "keywords": [
+        "craft",
+        "cms",
+        "craftcms",
+        "newsletter"
+    ],
+    "require": {
+        "craftcms/cms": "^3.0.1",
+    },
+    "autoload": {
+        "psr-4": {
+          "putyourlightson\\campaign-pro\\": "src/"
+        }
+    },
+    "support": {
+        "docs": "https://craftcampaign.com/docs",
+        "source": "https://github.com/putyourlightson/craft-campaign",
+        "issues": "https://github.com/putyourlightson/craft-campaign/issues"
+    },
+    "extra": {
+        "name": "Campaign Pro",
+        "handle": "campaign-pro",
+        "developer": "PutYourLightsOn",
+        "developerUrl": "https://www.putyourlightson.net/",
+        "schemaVersion": "1.0.0",
+        "hasCpSettings": true,
+        "hasCpSection": true,
+        "changelogUrl": "https://raw.githubusercontent.com/putyourlightson/craft-campaign/v1/CHANGELOG.md",
+        "class": "putyourlightson\\campaign-pro\\CampaignPro"
+    }
+}
