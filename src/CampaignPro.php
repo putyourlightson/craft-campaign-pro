@@ -4,7 +4,9 @@
  * @copyright Copyright (c) PutYourLightsOn
  */
 
-namespace putyourlightson\campaign-pro;
+namespace putyourlightson\campaignpro;
+
+use craft\base\Plugin;
 
 /**
  * Campaign Pro plugin
@@ -15,5 +17,20 @@ namespace putyourlightson\campaign-pro;
  */
 class CampaignPro extends Plugin
 {
+    // Static Properties
+    // =========================================================================
 
+    /**
+     * @var CampaignPro
+     */
+    public static $plugin;
+
+    // Public Methods
+    // =========================================================================
+
+    public function init()
+    {
+        parent::init();
+        self::$plugin = $this;
+    }
 }
