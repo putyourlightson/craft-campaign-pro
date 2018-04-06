@@ -9,7 +9,11 @@
         "craft",
         "cms",
         "craftcms",
-        "newsletter"
+        "newsletter",
+        "email",
+        "mailing",
+        "list",
+        "contact"
     ],
     "require": {
         "craftcms/cms": "^3.0.1"
@@ -30,9 +34,7 @@
         "developer": "PutYourLightsOn",
         "developerUrl": "https://www.putyourlightson.net/",
         "schemaVersion": "1.0.0",
-        "hasCpSettings": true,
-        "hasCpSection": true,
         "changelogUrl": "https://raw.githubusercontent.com/putyourlightson/craft-campaign/v1/CHANGELOG.md",
-        "class": "putyourlightson\\campaign-pro\\CampaignPro"
+        "class": "putyourlightson\\campaignpro\\CampaignPro"
     }
 }
