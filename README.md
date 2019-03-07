@@ -6,7 +6,7 @@
 
 # Campaign Pro Plugin for Craft CMS 3
 
-> Campaign Pro unlocks the pro features of the Campaign plugin which must also be purchased and installed. Once plugin editions come to the plugin store, these will be merged into a single plugin with two editions.
+> The Campaign Pro plugin is now redundant. The pro features are available as of in Campaign 1.7.0 with the Pro edition.
 
 Campaign Pro brings segments, automated sendouts, recurring sendouts and user group syncing to the Campaign plugin.
 
